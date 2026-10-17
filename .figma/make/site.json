@@ -1,0 +1,10 @@
+{
+  "description": "A platform for students to discover and participate in personal development and career activities from various universities, enhancing their skills and opportunities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
